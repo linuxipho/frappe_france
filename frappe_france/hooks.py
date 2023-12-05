@@ -11,6 +11,8 @@ app_license = "agpl-3.0"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/frappe_france/css/frappe_france.css"
+app_include_css = "/assets/frappe_france/css/france.css"
+
 # app_include_js = "/assets/frappe_france/js/frappe_france.js"
 
 # include js, css files in header of web template

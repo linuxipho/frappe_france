@@ -1,0 +1,8 @@
+/* Masquer le text 'Détails' dans les grilles des tables enfant */
+div.edit-grid-row {
+    display: none;
+}
+/* Masquer le libellé du noeud publique dans la barre latérale */
+div.standard-sidebar-label {
+    display: none;
+}
