@@ -1,5 +1,5 @@
 app_name = "frappe_france"
-app_title = "Frappe France"
+app_title = "France"
 app_publisher = "Rémi de Chazelles"
 app_description = "Traductions françaises et autres améliorations pour le framework Frappe"
 app_email = "remidechazelles@gmail.com"
