@@ -153,3 +153,7 @@ Drag and drop files here or upload from,Glisser-déposer des fichiers içi ou ch
 My Device,Mon appareil,
 Library,Bibliothèque,
 Set all private,Marquer comme privé,
+Email Queue,File d'attente des emails,
+{0} records are retained for {1} days.,{0} sont conservés pendant {1} jours.,
+{0} records are not automatically deleted.,ne sont pas nettoyés automatiquement.,
+You can change the retention policy from {0}.,Vous pouvez changer la logique de rétention depuis les {0}.,
